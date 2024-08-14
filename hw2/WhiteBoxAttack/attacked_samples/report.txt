@@ -1,0 +1,11 @@
+successfully attacked image ratio: 0.288
+Difference between sample 0: -0.0013675158843398094
+Difference between sample 1: -0.0007517819758504629
+Difference between sample 2: 6.201382348081097e-05
+Difference between sample 3: -0.0007544022519141436
+Difference between sample 4: -2.224618219770491e-05
+Difference between sample 5: 6.461065822804812e-06
+Difference between sample 6: -7.006577106949408e-06
+Difference between sample 7: -1.5246558177750558e-05
+Difference between sample 8: 1.6367574062314816e-05
+Difference between sample 9: -0.0018068640492856503
